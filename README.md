@@ -1,3 +1,3 @@
 ### About
 
-Easy and well explained consepts of AI/Ml 
+Easy and well explained concepts of AI/Ml 
