@@ -1,1 +1,3 @@
-# AI_ML_DL
+# About
+
+Easy and well explained consepts of AI/Ml 
